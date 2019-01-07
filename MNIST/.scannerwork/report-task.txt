@@ -1,0 +1,7 @@
+organization=carvalho96v2-github
+projectKey=Carvalho96v2_MNIST
+serverUrl=https://sonarcloud.io
+serverVersion=7.5.0.19140
+dashboardUrl=https://sonarcloud.io/dashboard?id=Carvalho96v2_MNIST
+ceTaskId=AWcX11Q8ZBOcJ_K_vrnh
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWcX11Q8ZBOcJ_K_vrnh
